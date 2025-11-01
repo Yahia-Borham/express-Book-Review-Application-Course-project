@@ -1,5 +1,5 @@
 # Book-Review-Application
-A Node.js and Express-based application for managing book reviews through CRUD operations on JSON data, featuring RESTful APIs and user authentication.
+A Node.js and Express-based application for managing book reviews through CRUD operations on JSON data, featuring RESTful APIs and user authentication. 
 ## Technologies Used
 Express.js, Node.js, postman, Javascript ES6, REST APIs, JSON, JSON Web Token (JWT), Session Management, API Gateways 
 ## Features
